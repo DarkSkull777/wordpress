@@ -5,7 +5,6 @@ import sys
 from queue import Queue
 from termcolor import colored
 
-# Warna ANSI untuk output
 putih = '\033[0;37m'
 merah = '\033[0;31m'
 hijau = '\033[0;32m'
